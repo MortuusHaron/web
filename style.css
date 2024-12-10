@@ -1,0 +1,47 @@
+
+/**/
+table > td {
+  padding: 10px;
+}
+
+/**/
+td::after {
+  text-align: left;
+}
+
+/**/
+.input-side > table {
+  width: 300px;
+}
+
+/**/
+.btn {
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+/**/
+.res-table {
+  width: 625px;
+  border: 1px solid black;
+}
+
+/**/
+body {
+  font-family: monospace, sans-serif;
+}
+
+/**/
+.res-table {
+  font-size: 16px; 
+}
+
+/**/
+.input-side {
+  margin: 10px;
+}
